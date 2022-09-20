@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Appearance
+## `Appearance`
 ![Student Page](https://user-images.githubusercontent.com/74320640/191249377-e318139d-0ea9-4db0-8783-61e523786066.PNG)
 ![Admin Page](https://user-images.githubusercontent.com/74320640/191250171-ebcc4016-3929-4756-8cfc-136a8e3a684e.PNG)
 ![Lecturer Page](https://user-images.githubusercontent.com/74320640/191252201-e17a5b64-39a7-4150-923e-79f8bcc2d97a.PNG)
