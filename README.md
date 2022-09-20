@@ -4,7 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##Appearance
 ![Student Page](https://user-images.githubusercontent.com/74320640/191249377-e318139d-0ea9-4db0-8783-61e523786066.PNG)
+![Admin Page](https://user-images.githubusercontent.com/74320640/191250171-ebcc4016-3929-4756-8cfc-136a8e3a684e.PNG)
+![Lecturer Page](https://user-images.githubusercontent.com/74320640/191252201-e17a5b64-39a7-4150-923e-79f8bcc2d97a.PNG)
+![List Lectures](https://user-images.githubusercontent.com/74320640/191250053-00453c5b-09a3-4057-b341-56df4ba77af3.PNG)
+![Lecture Page](https://user-images.githubusercontent.com/74320640/191250064-52f8140d-def9-454b-bad9-2cfc320e33c0.PNG)
+![Add Homework](https://user-images.githubusercontent.com/74320640/191250108-a204d486-b4e2-426a-9d74-a87daef9585f.PNG)
+![Add Admin](https://user-images.githubusercontent.com/74320640/191250124-f5989e8b-6aef-4ef1-b69f-6f9fa167e660.PNG)
 
+##
+Each user has a role they are Admin, Student, Assistant and Lecturer. Users are directed to the pages created according to their roles when logging in.
+Admin users should be able to add users to the system by entering their user information. Fields to add: Account type (admin, student, assistant, lecturer), first name, last name, e-mail address and username.
+Admin user should be able to list all users in the system. These are as list students, assistants, lecturer and admins. 
+All users should be able to list lectures. 
 
 ## Available Scripts
 
