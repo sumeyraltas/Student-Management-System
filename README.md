@@ -19,7 +19,7 @@ All users should be able to list lectures.
 
 
 ## 
-I used Java Spring for backend and React for frontend, added yarn. 
+I used Java Spring for backend and React for frontend, added yarn. Handled PostgreSQL database connection.  
 
 ## Available Scripts
 
