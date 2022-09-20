@@ -17,6 +17,10 @@ Admin users should be able to add users to the system by entering their user inf
 Admin user should be able to list all users in the system. These are as list students, assistants, lecturer and admins. 
 All users should be able to list lectures. 
 
+
+## 
+I used Java Spring for backend and React for frontend, added yarn. 
+
 ## Available Scripts
 
 In the project directory, you can run:
